@@ -23,6 +23,7 @@
     "url": "https://github.com/VicBond/excel/issues"
   },
   "homepage": "https://github.com/VicBond/excel#readme",
+  "browserslist": "> 0.25%, not dead",
   "devDependencies": {
     "@babel/core": "^7.19.0",
     "@babel/preset-env": "^7.19.0",
