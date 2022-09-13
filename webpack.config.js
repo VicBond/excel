@@ -31,7 +31,7 @@ module.exports = {
     new HTMLWebpackPlugin({
       template: 'index.html',
       minify: {
-        removeComments: isProdbgg,
+        removeComments: isProd,
         collapseWhitespace: isProd
       }
     }),
