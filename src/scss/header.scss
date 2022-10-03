@@ -35,6 +35,6 @@
     }
   }
   .button {
-
+    @include button(red);
   }
 }
