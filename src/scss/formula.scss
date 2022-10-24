@@ -12,7 +12,10 @@
   border-bottom: 1px solid $border-color;
 
   .formula-info {
-
+    font-size: 18px;
+    font-style: italic;
+    text-align: center;
+    border-right: 1px solid $border-color;
   }
   .formula-input {
 
