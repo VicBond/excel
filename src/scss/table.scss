@@ -27,6 +27,14 @@
   .row-data {
     display: flex;
   }
+  .column {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f9fa;
+    min-width: 40px;
+    width: $cell-width;
+  }
   .cell {
 
     &.selected {
