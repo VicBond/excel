@@ -15,7 +15,13 @@
     height: $row-height;
   }
   .row-info {
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: $info-cell-width;
+    height: 100%;
+    border: 1px solid $border-color;
+    background-color: #f8f9fa;
   }
   .row-data {
 
