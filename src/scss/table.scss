@@ -41,6 +41,12 @@
 
   }
   .cell {
+    min-width: 40px;
+    padding: 5px;
+    width: $cell-width;
+    height: 100%;
+    border: 1px solid #e2e2e3;
+
 
     &.selected {
 
