@@ -52,7 +52,9 @@
     white-space: nowrap;
 
     &.selected {
-
+      border: none;
+      outline: 2px solid #3c74af;
+      z-index: 2;
     }
   }
 }
