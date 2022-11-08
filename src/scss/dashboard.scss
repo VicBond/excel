@@ -36,6 +36,12 @@
     text-decoration: none;
     color: #000;
     text-align: center;
+
+    &:hover {
+      cursor: pointer;
+      color: green;
+      border-color: green;
+    }
   }
 
   &__view {
