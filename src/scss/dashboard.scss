@@ -64,6 +64,6 @@
   }
 
   &__list {
-    
+    @include clear-list;
   }
 }
