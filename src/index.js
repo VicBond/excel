@@ -9,4 +9,5 @@ const excel = new Excel('#app', {
   components: [Header, ToolBar, Formula, Table]
 });
 
-console.log('Excel', excel);
+// console.log('Excel', excel);
+excel.render();
